@@ -25,6 +25,7 @@
 
 *Open in browser. No account. No install.*
 
+- [Chinese Reading Lab](https://ordinarymantrying.com/tools/chinese-reading-lab.html) — 10 real historical decisions (Mandela, Jobs, Musk, Buffett…) told in Chinese. Click vocab for pinyin popup. HSK4–6. · [GitHub](https://github.com/daligao/chinese-reading-lab)
 - [Mandarin Flashcards](https://ordinarymantrying.com/tools/mandarin-flashcards.html) — HSK1–3 (400+ words), spaced repetition, level filter, clickable characters with pinyin popup, story reader. Free, offline. · [GitHub](https://github.com/daligao/mandarin-flashcards)
 - [Chinese Writing Toolkit](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) — 11 types of applied Chinese writing with sentence banks, model essays, grammar patterns. HSK4–6. · [GitHub](https://github.com/daligao/chinese-writing-toolkit)
 - [Pleco Dictionary](https://www.pleco.com) — Gold standard Chinese dictionary. Free web version + excellent mobile app.
@@ -52,6 +53,7 @@
 
 ## 📰 Reading
 
+- [Chinese Reading Lab](https://ordinarymantrying.com/tools/chinese-reading-lab.html) — 10 real historical decisions (Mandela, Curie, Jobs, Musk, Buffett, Zhang Yiming, Tu Youyou…) in Chinese. Click vocab for pinyin. HSK4–6. Free, offline.
 - [Du Chinese](https://duchinese.net) — Graded readers from beginner to advanced. Free tier available.
 - [Mandarin Bean](https://mandarinbean.com/category/beginner/) — Short graded passages with audio.
 - [HSK Reading](https://hskreading.com) — Practice passages organized by HSK level.
