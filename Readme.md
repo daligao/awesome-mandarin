@@ -1,56 +1,113 @@
-# 🇨🇳 Awesome resources for learning Mandarin Chinese
+# 🇨🇳 Awesome Mandarin Chinese Learning Resources
 
-## 大家好 👋. This is a curated & opinionated list of resources that I used when learning Mandarin Chinese. Hope you find it useful!
+> A curated list of the best free tools and resources for learning Mandarin Chinese · 学中文资源合集
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/ariqnrnns/awesome-mandarin-chinese-learning-resources/main/banner-awesome-mandarin-chinese-learning-resources.png" alt="Awesome resources for learning Mandarin Chinese Banner">
-</p>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## 🔍 Online courses
+---
 
-- https://www.coursera.org/learn/learn-chinese
-- https://www.coursera.org/specializations/hsk-learn-chinese
-- Hello Chinese
-- Duolingo
-- Flexi classes
-- Yoyochinese
+## Contents
 
-## 📗 Reading
+- [Free Browser Tools](#-free-browser-tools-no-login)
+- [Flashcards & Vocabulary](#-flashcards--vocabulary)
+- [Grammar](#-grammar)
+- [Reading](#-reading)
+- [Listening & YouTube](#-listening--youtube)
+- [Writing Practice](#-writing-practice)
+- [Speaking & Tutors](#-speaking--tutors)
+- [Apps](#-apps)
+- [Communities](#-communities)
+- [Blog: Life in China](#-blog-life-in-china)
 
-- https://resources.allsetlearning.com/chinese
-- https://hskreading.com/have-time-to-play/
-- https://mychinesereading.com/chinese-reading-material-beginners/
-- https://www.pleco.com
-- https://duchinese.net/
-- https://mandarinbean.com/category/beginner/
+---
 
-## ✍️ Writing
+## 🛠 Free Browser Tools (No Login)
 
-- https://www.chinese-grammar.com/beginner/
-- https://www.chinese-tools.com/tools/pinyin-editor.html
-- https://www.learnchineseez.com/
-- https://www.mdbg.net/chinese/dictionary?page=chardict
-- https://play.google.com/store/apps/details?id=com.molatra.chinesewriterlite
+*Open in browser. No account. No install.*
 
-## 🗣️ Speaking
+- [Mandarin Flashcards](https://ordinarymantrying.com/tools/mandarin-flashcards.html) — HSK1–3 (400+ words), spaced repetition, level filter, clickable characters with pinyin popup, story reader. Free, offline. · [GitHub](https://github.com/daligao/mandarin-flashcards)
+- [Chinese Writing Toolkit](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) — 11 types of applied Chinese writing with sentence banks, model essays, grammar patterns. HSK4–6. · [GitHub](https://github.com/daligao/chinese-writing-toolkit)
+- [Pleco Dictionary](https://www.pleco.com) — Gold standard Chinese dictionary. Free web version + excellent mobile app.
+- [MDBG Dictionary](https://www.mdbg.net/chinese/dictionary) — Web Chinese-English dictionary with character decomposition and stroke order.
 
-- https://resources.allsetlearning.com/chinese/pronunciation/
-- https://www.chinesepeach.com/
-- https://l-lingo.com/free-lessons/en/learn-chinese-mandarin
+---
 
-## 👂 Listening
+## 🃏 Flashcards & Vocabulary
 
-- https://www.youtube.com/@EverydayChinese/videos
-- https://www.youtube.com/@MandarinClick
-- https://www.youtube.com/@LearnChineseOnline
-- https://www.youtube.com/channel/UCdwdSGQsSbcapDmODtOr58g
+- [Mandarin Flashcards (HSK1–3)](https://ordinarymantrying.com/tools/mandarin-flashcards.html) — Browser-based, free, offline. 400+ words.
+- [Anki](https://apps.ankiweb.net) — Best SRS flashcard system. Huge library of community Chinese decks.
+- [HSK 3.0 Anki Decks](https://github.com/krmanik/HSK-3.0) — Complete HSK 3.0 word lists in Anki format.
+- [Anki Xiehanzi](https://github.com/krmanik/Anki-xiehanzi) — Character writing practice in Anki with stroke animations.
+- [Complete HSK Vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary) — HSK vocabulary database in multiple formats (JSON, CSV).
+- [HSK Academy](https://www.hskacademy.com) — Practice HSK vocabulary with quizzes, organized by level.
 
-## 🃏 Flashcards & Interactive Tools
+---
 
-- [Mandarin Chinese Flashcards](https://ordinarymantrying.com/tools/mandarin-flashcards.html) — HSK1–3 vocabulary (400+ words) with spaced repetition + level filter (study one HSK level at a time). Sentence-by-sentence story reader where English appears first and Chinese is revealed on tap. Every character is clickable for instant pinyin + meaning + example. Free, no login. Full version at [ordinarymantrying.com](https://ordinarymantrying.com/tools/mandarin-flashcards.html) · [GitHub (HSK1 only)](https://github.com/daligao/mandarin-flashcards)
+## 📖 Grammar
 
-- [Chinese Writing Toolkit 中文写作练习](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) — 11 types of Chinese applied writing (邀请信 invitation · 感谢信 thank-you · 建议信 advice · 道歉信 apology · 申请信 application · 通知 notice · 演讲稿 speech · 询问信 inquiry · 投诉信 complaint · 求职信 cover letter · 自我介绍 self-introduction) with sentence banks, word upgrade table, 13 grammar patterns, 10 formal phrases, fill-in templates, model essays, and a bilingual writing checklist. Built for HSK4–6 and business Chinese. Free, no login. [ordinarymantrying.com](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) · [GitHub (9 types)](https://github.com/daligao/chinese-writing-toolkit)
+- [Chinese Grammar Wiki](https://resources.allsetlearning.com/chinese/grammar/) — Most comprehensive free Chinese grammar reference in English. Essential bookmark.
+- [Chinese Boost](https://www.chineseboost.com/grammar/) — Grammar explanations with examples, organized by level.
 
-## 📰 Blog — Life in China
+---
 
-- [Ordinary Man Trying](https://ordinarymantrying.com) — Written by someone who lives in China and writes about what they see: the culture, the career paths, the everyday moments that don't make international news. In English. Good companion reading if you're learning Chinese and want cultural context.
+## 📰 Reading
+
+- [Du Chinese](https://duchinese.net) — Graded readers from beginner to advanced. Free tier available.
+- [Mandarin Bean](https://mandarinbean.com/category/beginner/) — Short graded passages with audio.
+- [HSK Reading](https://hskreading.com) — Practice passages organized by HSK level.
+- [My Chinese Reading](https://mychinesereading.com/chinese-reading-material-beginners/) — Curated material for beginners.
+
+---
+
+## 👂 Listening & YouTube
+
+- [Comprehensible Chinese](https://www.youtube.com/@ComprehensibleChinese) — Best channel for input-based learning. Slow, clear, stories with characters on screen.
+- [Mandarin Corner](https://www.youtube.com/@MandarinCorner) — Real conversations at multiple levels.
+- [YoYo Chinese](https://www.yoyochinese.com) — Structured grammar lessons. Great for beginners.
+- [Everyday Chinese](https://www.youtube.com/@EverydayChinese) — Practical vocabulary for daily life.
+- [Slow Chinese 慢速中文](https://www.slow-chinese.com) — Podcast in slow, clear Mandarin with transcripts.
+- [ChinesePod](https://chinesepod.com) — Long-running Chinese podcast. Free episodes available.
+
+---
+
+## ✍️ Writing Practice
+
+- [Chinese Writing Toolkit](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) — 11 types of Chinese writing with templates. Free, no login.
+- [Skritter](https://skritter.com) — Character writing practice with stroke-order feedback.
+- [Arch Chinese](https://www.archchinese.com/chinese_english_dictionary.html) — Stroke order animations for any character.
+
+---
+
+## 🗣️ Speaking & Tutors
+
+- [HelloTalk](https://www.hellotalk.com) — Language exchange with native Chinese speakers.
+- [Tandem](https://www.tandem.net) — Language exchange, slightly more structured than HelloTalk.
+- [italki](https://www.italki.com) — Affordable Chinese tutors. Rates vary widely.
+- [AllSet Learning Pronunciation](https://resources.allsetlearning.com/chinese/pronunciation/) — Comprehensive tone and pronunciation guide.
+
+---
+
+## 📱 Apps
+
+- [HelloChinese](https://www.hellochinese.cc) — Best Duolingo-style app built specifically for Chinese learners.
+- [Pleco](https://www.pleco.com) — Essential Chinese dictionary. Free base version is excellent.
+- [Anki](https://apps.ankiweb.net) — Best long-term vocabulary system. Free on desktop.
+- [Duolingo](https://www.duolingo.com) — Good for absolute beginners only.
+
+---
+
+## 💬 Communities
+
+- [r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/) — Large active community for questions and resources.
+- [r/learnmandarin](https://www.reddit.com/r/learnmandarin/) — Focused Mandarin learning community.
+- [Chinese Language Stack Exchange](https://chinese.stackexchange.com) — Q&A for specific language questions.
+
+---
+
+## 📝 Blog: Life in China
+
+- [Ordinary Man Trying](https://ordinarymantrying.com) — Written by someone living in China. Real cultural context for Chinese learners. In English.
+
+---
+
+*Pull requests welcome. Know a resource that belongs here? Open an issue.*
