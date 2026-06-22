@@ -44,3 +44,7 @@
 - https://www.youtube.com/@MandarinClick
 - https://www.youtube.com/@LearnChineseOnline
 - https://www.youtube.com/channel/UCdwdSGQsSbcapDmODtOr58g
+
+## 🃏 Flashcards & Interactive Tools
+
+- [Mandarin Chinese Flashcards](https://github.com/daligao/mandarin-flashcards) — Free browser tool for English speakers. HSK1 vocabulary with spaced repetition + sentence-by-sentence story reader where English appears first and Chinese is revealed on tap. Every character is clickable for instant pinyin lookup. No install, no login. ([Live demo](https://daligao.github.io/mandarin-flashcards/mandarin-flashcards.html))
