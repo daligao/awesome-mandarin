@@ -44,3 +44,9 @@
 - https://www.youtube.com/@MandarinClick
 - https://www.youtube.com/@LearnChineseOnline
 - https://www.youtube.com/channel/UCdwdSGQsSbcapDmODtOr58g
+
+## 🎴 Flashcards & Interactive Tools
+
+- [Mandarin Flashcards (HSK 1–3)](https://ordinarymantrying.com/tools/mandarin-flashcards/) - Free browser-based flashcard tool covering 400 words across HSK1, HSK2, and HSK3. Tap any character for pinyin, meaning, and example sentence. Includes TTS audio. No app install needed.
+- [Chinese Writing Toolkit](https://ordinarymantrying.com/tools/chinese-writing-toolkit/) - 11 ready-made Chinese writing templates: invitation, thank-you, suggestion, apology, job application, and more. Useful for learners who need to write formal Chinese.
+
