@@ -25,9 +25,12 @@
 
 *Open in browser. No account. No install.*
 
+- [Pinyin Annotator](https://ordinarymantrying.com/tools/pinyin-annotator.html) — Paste any Chinese text → pinyin above every character instantly. Tone color-coding, HSK level highlight, 2,500+ char dictionary. All levels. · [GitHub](https://github.com/daligao/pinyin-annotator)
 - [Chinese Reading Lab](https://ordinarymantrying.com/tools/chinese-reading-lab.html) — 10 real historical decisions (Mandela, Jobs, Musk, Buffett…) told in Chinese. Click vocab for pinyin popup. HSK4–6. · [GitHub](https://github.com/daligao/chinese-reading-lab)
+- [Chengyu Stories](https://ordinarymantrying.com/tools/chengyu-stories.html) — 20 classic 成语 with origin stories in Chinese, modern usage examples, and scenario quiz. HSK4–6. · [GitHub](https://github.com/daligao/chengyu-stories)
 - [Mandarin Flashcards](https://ordinarymantrying.com/tools/mandarin-flashcards.html) — HSK1–3 (400+ words), spaced repetition, level filter, clickable characters with pinyin popup, story reader. Free, offline. · [GitHub](https://github.com/daligao/mandarin-flashcards)
 - [Chinese Writing Toolkit](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) — 11 types of applied Chinese writing with sentence banks, model essays, grammar patterns. HSK4–6. · [GitHub](https://github.com/daligao/chinese-writing-toolkit)
+- [Chinese Learning Hub](https://daligao.github.io/learn-chinese-free/) — All 5 tools in one page with comparison table. · [GitHub](https://github.com/daligao/learn-chinese-free)
 - [Pleco Dictionary](https://www.pleco.com) — Gold standard Chinese dictionary. Free web version + excellent mobile app.
 - [MDBG Dictionary](https://www.mdbg.net/chinese/dictionary) — Web Chinese-English dictionary with character decomposition and stroke order.
 
@@ -53,7 +56,9 @@
 
 ## 📰 Reading
 
+- [Pinyin Annotator](https://ordinarymantrying.com/tools/pinyin-annotator.html) — Paste any Chinese text → instant pinyin above every character. Tone colors. HSK level highlight. 2,500+ chars.
 - [Chinese Reading Lab](https://ordinarymantrying.com/tools/chinese-reading-lab.html) — 10 real historical decisions (Mandela, Curie, Jobs, Musk, Buffett, Zhang Yiming, Tu Youyou…) in Chinese. Click vocab for pinyin. HSK4–6. Free, offline.
+- [Chengyu Stories](https://ordinarymantrying.com/tools/chengyu-stories.html) — 20 classic Chinese idioms: origin story in Chinese + modern usage + scenario quiz. HSK4–6.
 - [Du Chinese](https://duchinese.net) — Graded readers from beginner to advanced. Free tier available.
 - [Mandarin Bean](https://mandarinbean.com/category/beginner/) — Short graded passages with audio.
 - [HSK Reading](https://hskreading.com) — Practice passages organized by HSK level.
