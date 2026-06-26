@@ -27,6 +27,8 @@
 
 - [Mandarin Flashcards](https://ordinarymantrying.com/tools/mandarin-flashcards.html) — HSK1–3 (400+ words), spaced repetition, level filter, clickable characters with pinyin popup, story reader. Free, offline. · [GitHub](https://github.com/daligao/mandarin-flashcards)
 - [Chinese Writing Toolkit](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) — 11 types of applied Chinese writing with sentence banks, model essays, grammar patterns. HSK4–6. · [GitHub](https://github.com/daligao/chinese-writing-toolkit)
+- [Chinese Antonyms Game — 反义词连连看](https://ordinarymantrying.com/tools/chinese-antonyms.html) — Match 380 opposite-word pairs across 3 difficulty levels. Pinyin + English on every tile. Combo scoring, hint button, 30+ rounds. Great for HSK vocab. · [GitHub](https://github.com/daligao/chinese-antonyms-game)
+- [Chinese Measure Words Game — 量词分类练习](https://ordinarymantrying.com/tools/chinese-measure-words.html) — Sort 8 nouns into their correct measure word buckets per level. 8 progressive levels from everyday counters (个·只) to rare literary measure words (艘·株). Pinyin + English hints, shake on wrong, all-correct to advance. · [GitHub](https://github.com/daligao/chinese-measure-words-game)
 - [Pleco Dictionary](https://www.pleco.com) — Gold standard Chinese dictionary. Free web version + excellent mobile app.
 - [MDBG Dictionary](https://www.mdbg.net/chinese/dictionary) — Web Chinese-English dictionary with character decomposition and stroke order.
 
