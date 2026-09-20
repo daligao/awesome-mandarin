@@ -59,6 +59,7 @@
 
 ## 📰 Reading
 
+- [Rolko](https://www.rolko.xyz/) — Desktop Chrome companion for selectable Chinese webpage text, with free word lookup and saved-word spaced-repetition review. Saving new words requires a paid plan; includes AI-assisted features.
 - [Du Chinese](https://duchinese.net) — Graded readers from beginner to advanced. Free tier available.
 - [Mandarin Bean](https://mandarinbean.com/category/beginner/) — Short graded passages with audio.
 - [HSK Reading](https://hskreading.com) — Practice passages organized by HSK level.
