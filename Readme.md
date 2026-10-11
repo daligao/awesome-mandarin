@@ -60,6 +60,7 @@
 ## 📰 Reading
 
 - [Du Chinese](https://duchinese.net) — Graded readers from beginner to advanced. Free tier available.
+- [HSK Read](https://hskread.com) — Free graded Chinese reading (HSK 1–9) with optional pinyin/audio/translation and public methodology counts.
 - [Mandarin Bean](https://mandarinbean.com/category/beginner/) — Short graded passages with audio.
 - [HSK Reading](https://hskreading.com) — Practice passages organized by HSK level.
 - [My Chinese Reading](https://mychinesereading.com/chinese-reading-material-beginners/) — Curated material for beginners.
