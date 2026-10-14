@@ -100,6 +100,7 @@
 - [Pleco](https://www.pleco.com) — Essential Chinese dictionary. Free base version is excellent.
 - [Anki](https://apps.ankiweb.net) — Best long-term vocabulary system. Free on desktop.
 - [Duolingo](https://www.duolingo.com) — Good for absolute beginners only.
+- [Hanzi Comics](https://play.google.com/store/apps/details?id=hanzi.comics) — Free Android app with illustrated character mnemonics, stroke-order guides, handwriting practice, and structured lessons (up to 10 new lessons per day).
 
 ---
 
