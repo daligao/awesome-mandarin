@@ -82,6 +82,7 @@
 - [Chinese Writing Toolkit](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) — 11 types of Chinese writing with templates. Free, no login.
 - [Skritter](https://skritter.com) — Character writing practice with stroke-order feedback.
 - [Arch Chinese](https://www.archchinese.com/chinese_english_dictionary.html) — Stroke order animations for any character.
+- [Chinese Stroke Order (中文笔顺)](https://zhongwenbishun.com/) — Free stroke-order lookup + guided handwriting for 20,000+ characters (iOS/Android/web); animations, pinyin, native audio.
 
 ---
 
@@ -96,6 +97,7 @@
 
 ## 📱 Apps
 
+- [Chinese Stroke Order (中文笔顺)](https://zhongwenbishun.com/) — Free Chinese stroke-order lookup and handwriting practice app (iOS/Android).
 - [HelloChinese](https://www.hellochinese.cc) — Best Duolingo-style app built specifically for Chinese learners.
 - [Pleco](https://www.pleco.com) — Essential Chinese dictionary. Free base version is excellent.
 - [Anki](https://apps.ankiweb.net) — Best long-term vocabulary system. Free on desktop.
