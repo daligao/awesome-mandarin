@@ -36,6 +36,7 @@
 - [Chinese Learning Hub](https://daligao.github.io/learn-chinese-free/) — All tools in one page with comparison table. · [GitHub](https://github.com/daligao/learn-chinese-free)
 - [Pleco Dictionary](https://www.pleco.com) — Gold standard Chinese dictionary. Free web version + excellent mobile app.
 - [MDBG Dictionary](https://www.mdbg.net/chinese/dictionary) — Web Chinese-English dictionary with character decomposition and stroke order.
+- [Mingzi](https://mingzi.io) - Free Chinese name generator, English-to-Chinese name converter, and authentic character/surname directory with Pinyin and audio.
 
 ---
 
