@@ -36,6 +36,7 @@
 - [Chinese Learning Hub](https://daligao.github.io/learn-chinese-free/) — All tools in one page with comparison table. · [GitHub](https://github.com/daligao/learn-chinese-free)
 - [Pleco Dictionary](https://www.pleco.com) — Gold standard Chinese dictionary. Free web version + excellent mobile app.
 - [MDBG Dictionary](https://www.mdbg.net/chinese/dictionary) — Web Chinese-English dictionary with character decomposition and stroke order.
+- [PandaDict](https://pandadict.app/) — Chinese-English dictionary with pinyin, example sentences, character stroke animations, and HSK vocabulary lists. Some content is AI-generated and not individually reviewed.
 
 ---
 
